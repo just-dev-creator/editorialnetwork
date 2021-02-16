@@ -1,0 +1,39 @@
+{
+  "name": "markdown-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devstart": "nodemon local.js -e js,ejs,json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/just-dev-creator/markdown-blog.git"
+  },
+  "author": "justCoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/just-dev-creator/markdown-blog/issues"
+  },
+  "homepage": "https://github.com/just-dev-creator/markdown-blog#readme",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "bootstrap": "^5.0.0-beta1",
+    "cookie-parser": "^1.4.5",
+    "dompurify": "^2.2.6",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mark": "^0.10.0",
+    "marked": "^1.2.8",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.14",
+    "slugify": "^1.4.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
