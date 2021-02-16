@@ -28,7 +28,7 @@
     "jsdom": "^16.4.0",
     "jsonwebtoken": "^8.5.1",
     "mark": "^0.10.0",
-    "marked": "^1.2.8",
+    "marked": "^2.0.0",
     "method-override": "^3.0.0",
     "mongoose": "^5.11.14",
     "slugify": "^1.4.6"
