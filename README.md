@@ -7,7 +7,7 @@ The user creates its article in markdown. First, it's published unlisted and onl
 accessible using the direct link. Then, an admin reads trough the text and verifys
 it. From now, it will appear on the main page.
 ## Where?
-You can view an example [here](https:rdn.justcoding.tech/). Maybe it's not longer
+You can view an example [here](https://rdn.justcoding.tech/). Maybe it's not longer
 online if you visit the page. Please note that your articles won't get verified. 
 ## How to use?
 Download the files and install the packages. Set the envroiment variables "ACCESS_TOKEN_SECRET" for the
