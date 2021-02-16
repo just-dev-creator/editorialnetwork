@@ -77,7 +77,6 @@ router.post('/verify/:id', async (req, res) => {
         })
         console.log(article.isVerified)
         res.redirect("/articles/" + article.slug)
-        await debug(req.params.id)
     } catch (e) {
         res.redirect("/")
     }
@@ -98,10 +97,4 @@ function saveAndRedirect(path) {
             })
         }
     }
-}
-
-async function debug(id) {
-    article = await Article.findById(id)
-    console.log(article.title)
-    console.log(article.isVerified)
 }
