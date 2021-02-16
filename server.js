@@ -19,9 +19,10 @@ app.use('/articles', articlesRouter);
 
 
 app.get('/', (async (req, res) => {
-    const articles = await Article.find().sort({
-        "createdAt": 'desc',
+    const articles = await Article.find({
         "isAccepted": true
+    }).sort({
+        "createdAt": 'desc'
     })
     res.render('index', {
         articles: articles
