@@ -1,3 +1,13 @@
+![Picture of archive](https://images.unsplash.com/photo-1461360228754-6e81c478b882?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=mr-cup-fabien-barral-o6GEPQXnqMY-unsplash.jpg)
+## ⚠️ You are viewing an archived project ⚠️
+This project was archived by me - the owner of it. It likely was an personal one-time project and I want to make it clear that I wont provide support on this project.
+
+If you still want to tell me something important about this, please use the email on my profile page.
+
+Below you can find the old README, if there is any.
+
+***
+
 # Editorialnetwork
 ## Why?
 This project was funded to allow the whole internet to write for one newspaper,
